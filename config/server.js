@@ -21,6 +21,6 @@ module.exports = ({ env }) => ({
       debug: false,
     },
 
-  //postgres://gvuhdkohpughcu:14efec71fcd2089e08e1cdfd7a329ae22b46341acfcdcc0eb69abedd774e901a@ec2-99-80-170-190.eu-west-1.compute.amazonaws.com:5432/dd53ombp4p64p6
+
 
 });
